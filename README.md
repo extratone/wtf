@@ -1,4 +1,4 @@
-![WTF Front Page](captures/WTF Capture 11-09-2020 (Preview).jpg)
+![WTF Front Page](https://github.com/extratone/wtf/raw/master/captures/WTF%20Capture%2011-09-2020%20(Preview).jpg)
 
 # David Blue Dot What The Fuck
 
