@@ -1,0 +1,188 @@
+#site-header {
+	background-color: #04BFAD;
+	padding: 0;
+}
+
+.nav-toggle .toggle-inner {
+	color: #F5D7E3;
+}
+entry-header {
+	background-color: #f9fbff;
+/* 	display: hidden; */
+}
+
+.header-titles .site-description {
+	color: #F5D7E3;
+}
+body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+	color: #F5D7E3;
+	font-family: aktiv-grotesk, sans-serif;
+	letter-spacing: -1.3px;
+}
+
+.singular .entry-header {
+	padding: 1.4rem 0;
+/* 	background-color: #04BFAD; */
+/* 	text-transform: capitalize; */
+/* 	font-size: 175px; */
+/* 	 border-bottom: 3px dotted darkblue; */
+	/* 	display: none; */
+}
+
+body {
+	font-family: adobe-caslon-pro, serif;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	font-size: 21px;
+	text-transform: none;
+	font-weight: 400;
+	font-style: normal
+	background-color: #f7ff85;
+}
+
+h1 {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 700;
+	font-size: 4em ;
+	letter-spacing: -5px;
+	font-style: normal;
+	color: #F2441D;
+}
+
+h2 {
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	color: #00006b;
+}
+
+p {
+	font-family: adobe-caslon-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+li {
+	font-family: adobe-caslon-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.entry-categories a {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	font-style: normal;
+	color: #da2573;
+}
+
+.primary-menu a {
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 700;
+	font-size: 19px;
+}
+
+.site-description {
+	font-family: aktiv-grotesk, sans-serif;
+font-weight: 700;
+	font-size: 20px;
+font-style: italic;
+}
+
+.comment-reply-title {
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	color: #00006b;
+}
+.widget_archive a, .widget_categories a, .widget_pages a, .widget_meta a, .widget_nav_menu a {
+	text-decoration: none;
+	font-family: aktiv-grotesk, sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 0px;
+	font-style: normal;
+	color: #f7ff85;
+}
+
+.pagination-single {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 25px;
+	font-style: normal;
+	color: #da2573;
+}
+
+.widget_rss a {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 0px;
+	color: #f7ff85;
+}
+
+.footer, .header-footer-group, #site-footer {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 0px;
+	color: #f7ff85;
+	background-color: #04bfad;
+}
+
+.footer-nav-widgets-wrapper {
+/* 	background-color: #F2C2CB */
+}
+
+.footer-copyright, .site-footer, .powered-by-wordpress a {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 0px;
+	color: #F5D7E3;
+}
+
+.widget-title {
+	color: #A8577E;
+}
+
+.widget_nav_menu a {
+	font-weight: 400;
+}
+
+.widget_rss a {
+	font-family: aktiv-grotesk, sans-serif;
+	color: #7846a0;
+}
+
+#respond {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 17px;
+	font-style: normal;
+	color: #da2573;
+}
+
+#respond p.comment-subscription-form-label {
+	font-family: aktiv-grotesk-condensed, sans-serif;
+	font-size: 14px !important;
+	font-weight: 400;
+	font-style: normal;
+	font-style: normal;
+	color: #da2573;
+}
+
+.widget_search .search-field {
+	background-color: #F5D7E3;
+}
+
+#subscribe-email input {
+/* 	color: f7ff85; */
+	background-color: #F5D7E3;
+}
