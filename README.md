@@ -1,4 +1,4 @@
-![WTF Front Page](/WTF Capture 11-09-2020 (Preview).jpg)
+![WTF Front Page](captures/WTF Capture 11-09-2020 (Preview).jpg)
 
 # David Blue Dot What The Fuck
 
