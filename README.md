@@ -2,7 +2,7 @@
 
 # David Blue Dot What The Fuck
 
-## An experimental WordPress website which I to forget about.
+## An experimental WordPress website which I try to forget about.
 
 For more information on davidblue.wtf, please see [my introductory post on the site](https://www.davidblue.wtf/wordpress-experimentation/). 
 
