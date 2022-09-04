@@ -1,0 +1,145 @@
+body {
+  font-family: adobe-caslon-pro, serif !important;
+  font-weight: 400;
+  font-style: normal;
+  color: #1c0021;
+  font-size: 1.15rem;
+	margin: 0.2rem;
+	background-image: url("/unicode.jpg");
+	background-position: center;
+	background-size: 180%;
+}
+ /* background-color: #f9fbff;}
+/* old background-color: #f2f2f2 */
+
+#wrapper {
+  max-width: 745px;
+  padding: 55px 5% 35px 5%;
+	background: #fffdeb;
+	box-shadow: 0 0 0 2.5px #00006b inset;
+}
+
+header {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.return {
+	display: block;
+	position: absolute;
+	margin-left: -1.2rem;
+	color: rgb(0, 98, 255);
+	top: 2.5rem;
+	font-size: 1rem;
+}
+
+ h1 {
+     color:#00006b !important;
+     font-family: proxima-nova-condensed, sans-serif;
+     font-weight: 900;
+		 font-size: 2em !important;
+ }
+
+h2 {
+    color:#00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    font-size: 1.15em !important;
+}
+
+h4 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+p {
+	line-height: 1.5rem;
+}
+
+p.dinkus {
+text-align: center;
+color: #da2573;
+font-family: proxima-nova, sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+p.lede {
+	font-weight: 500;
+}
+
+ul {
+	list-style-type: square;
+	padding-left: 1.7rem;
+	color: #333;
+	margin: 2rem 0 2rem 0;
+	font-size: 0.95rem;
+}
+
+ul li {
+	margin: 0.8rem 1rem 0 0rem;
+	padding: 0;
+}
+
+ol {
+	color: #333;
+	padding-left: 1.7rem;
+	margin: 2rem 0 2rem 0;
+	font-size: 1rem;
+}
+
+ol li {
+	margin: 0.8rem 2rem 0 1rem;
+	padding: 0;
+}
+
+blockquote {
+  color: #420a30;
+  font-family: proxima-nova-condensed, sans-serif;
+  font-weight: 400;
+	margin-top: 1.75rem;
+	margin-bottom: 2rem;
+	font-size: 1.1rem;;	
+	margin: 0;
+	padding: 0.1rem 1.8rem;
+}
+
+a {
+  color: #00006b;
+}
+
+ul.colophon {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+	list-style-type: armenian;
+	font-size: 0.9rem;
+	margin-top: 0rem;
+}
+
+ul.colophon li {
+	margin-top: 0.2rem;
+}
+
+ul.colophon li img {
+	position: absolute;
+	margin-left: -1.3rem;
+	margin-top: 0.1rem;
+}
